@@ -5,7 +5,7 @@ body {
 }
 
 a { 
-    color:#00abff;
+    color:#9d00ff;
     text-decoration:none; 
 }
 
@@ -36,7 +36,7 @@ h2 {
 
 p.date { 
     color:#ccc;
-    font-family: georgia, serif;
+    font-family: "Times New Roman", serif;
     font-size: 12px;
     font-style: italic; 
 }
@@ -65,20 +65,20 @@ input, textarea {
 }
 input[type=submit] {
     font-weight:bold;
-    background:#00abff;
+    background: #9d00ff;
     color:#fff;
     padding:10px 20px;
     font-size:14px;
     text-transform:uppercase; 
 }
-.errorlist { 
+
+.errorlist {
     color:#cc0033;
     float:left;
     clear:both;
     padding-left:10px; 
 }
 
-/* comments */
 .comment {
     padding:10px;
 }
