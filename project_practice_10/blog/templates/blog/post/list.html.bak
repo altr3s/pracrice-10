@@ -9,7 +9,7 @@
  </a>
  </h2>
  <p class="date">
- Опубликовано {{ post.publish }} от {{ post.author }}
+ Published {{ post.publish }} by {{ post.author }}
  </p>
  {{ post.body|truncatewords:30|linebreaks }}
  {% endfor %}

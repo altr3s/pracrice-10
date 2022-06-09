@@ -10,8 +10,8 @@
  {% block content %}{% endblock %}
  </div>
  <div id="sidebar">
- <h2>Блог</h2>
-  <p>Автор Прокопьев Леонид</p>
+ <h2>My blog</h2>
+  <p>Blog</p>
  </div>
 </body>
 </html>
